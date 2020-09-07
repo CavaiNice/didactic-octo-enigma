@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/didactic-octo-enigma/precache-manifest.22fe675b1b7847a6a2c1d9267b493cd5.js"
+  "/didactic-octo-enigma/precache-manifest.5f3cdb890c5bb38e982fde92bd1f0a88.js"
 );
 
 self.addEventListener('message', (event) => {
